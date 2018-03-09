@@ -1,6 +1,10 @@
 # YouTube Video Viewer
 A React application which takes a search term and searches real time to showcase the top 5 results from the YouTube API. The videos can then be viewed on the player by clicking on them.
 
+![screenshot](https://github.com/harshildp/YouTube_video_viewer/blob/master/img/screenshot.png "Application Screenshot")
+
+Applications loads initially with the 5 hottest videos on YouTube at the time
+
 ## Technologies Used:
 * JavaScript
 * Node.js
